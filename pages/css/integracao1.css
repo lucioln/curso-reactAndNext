@@ -1,0 +1,18 @@
+.vermelha{
+    background-color: red;
+    padding: 50px;
+}
+
+.azul{
+    background-color: blue;
+    padding: 50px;
+}
+
+.verde{
+    background-color: green;
+    padding: 50px;
+}
+.row{
+    display: flex;
+    justify-content: center;
+}
